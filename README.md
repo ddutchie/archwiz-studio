@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>The Professional Visualization Kit for Architects and Designers.</strong><br>
-  Accelerate your workflow with local AI-powered rendering and the power of macOS.
+  Accelerate your workflow with professional AI-powered visualization powered by Nano Banana.
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## Overview
 
-ArchWiz Studio is a native macOS application designed to bring the latest AI visualization techniques directly to your desktop. By leveraging Apple Silicon's Neural Engine, ArchWiz provides ultra-fast, local upscaling and variation generation without compromising your privacy or data security.
+ArchWiz Studio is a native macOS application designed to bring the latest AI visualization techniques directly to your desktop. By leveraging Apple Silicon's Neural Engine, ArchWiz provides ultra-fast, local upscaling combined with powerful cloud-driven generation via Nano Banana.
 
 ## Key Features
 
@@ -28,7 +28,11 @@ ArchWiz Studio is a native macOS application designed to bring the latest AI vis
 - **Variation Canvas**: Explore design directions with our React Flow node graph. Wire up infinite branching trees of architectural variations.
 - **7 Native Reference Modes**: From site context and 3D views to sketches and material references.
 - **Architectural Styles**: Over 14+ built-in styles including Photorealistic, Minimalist, Japandi, Biophilic, and more.
-- **Secure Cloud Processing**: High-performance architectural generation powered by the cloud, while your renders remain private on your machine.
+- **Powered by Nano Banana**: High-performance architectural generation powered by Google's Nano Banana models, while your renders remain private on your machine.
+  <p align="center">
+    <img src="assets/Google_Gemini_logo.png" width="300" alt="Google Gemini Logo">
+  </p>
+
 
 ## Installation
 
