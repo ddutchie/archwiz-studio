@@ -3,15 +3,15 @@
 
 [Brief 1-2 sentence overview of what this release focuses on.]
 
-### ✨ What's New
+### What's New
 *   **[Feature Name]**: [Brief description of the feature and how it benefits the user.]
 *   **[Improvement Name]**: [Details on what was enhanced or optimized.]
 
-### 🛠️ Bug Fixes
+### Bug Fixes
 *   Fixed an issue where [description of bug].
 *   Resolved a crash occurring during [specific action].
 
-### 🔒 Security & Privacy
+### Security & Privacy
 *   [Any updates to data handling or security protocols.]
 
 ---
